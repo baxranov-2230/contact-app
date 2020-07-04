@@ -75,7 +75,7 @@ public class Contact {
                     setEmail(email);
                     break;
                 case 6:
-                    System.out.print("Phone = ");
+                    System.out.print("Phone123 = ");
                     String phone = scanner.nextLine();
                     setPhone(phone);
                     break;
