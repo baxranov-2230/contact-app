@@ -26,7 +26,7 @@ public class Contact {
 
     public void EnterInfo() {
         scanner = new Scanner(System.in);
-        System.out.print("Enter name: ");
+        System.out.print("Enter name:sss ");
         name = scanner.nextLine();
         System.out.print("Enter surname: ");
         surname = scanner.nextLine();
