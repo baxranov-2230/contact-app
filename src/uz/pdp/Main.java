@@ -12,7 +12,7 @@ public class Main {
         int chance = -1;
 
         while (chance != 0) {
-            System.out.println("000=>Exit, 1=>addContact, 2=>printContact, 3=>editContact, 4=>deleteContact, 5=>searchContact");
+            System.out.println("0=>Exit, 1=>addContact, 2=>printContact, 3=>editContact, 4=>deleteContact, 5=>searchContact");
             chance = scanner.nextInt();
             switch (chance) {
                 case 1:
